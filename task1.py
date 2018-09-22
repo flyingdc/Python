@@ -1,4 +1,4 @@
-#從翡翠歌詞下載歌詞轉乘excel對應
+# 從翡翠歌詞下載歌詞轉乘excel對應
 
 f = open('input.txt','r')
 o = open('output.txt','w')
